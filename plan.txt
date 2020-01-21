@@ -1,0 +1,7 @@
+Do sprawdzenia:
+- preprocessing na grayscale
+- KPCA njapierw zwiększająca wymiarowość >3074 a potem zmniejszająca
+- czy możemy to jakoś ładnie wizualizować?
+
+Do zrobienia finalnie:
+- Wstęp polagający na demonstracji tych obrazków jakimiś ładnymi subplotami
